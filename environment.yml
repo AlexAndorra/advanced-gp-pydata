@@ -1,0 +1,22 @@
+name: gp-pydata24
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - ipywidgets
+  - isort
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nbqa
+  - numba
+  - numpy
+  - numpyro
+  - nutpie
+  - pandas
+  - pymc>=5.16.0
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tensorflow
+  - watermark
