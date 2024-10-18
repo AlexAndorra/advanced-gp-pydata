@@ -32,7 +32,7 @@ All tutorial materials, including notebooks and datasets, will be made available
 
 ## Computer Setup
 
-We recommend using either [Conda](https://docs.conda.io/en/latest/miniconda.html) or [Pixi](https://pixi.sh/latest/) to install the dependencies for this tutorial. Which you choose is a matte of personal preference. Once installed, you can create the environment by running the appropriate command below from within the project directory.
+We recommend using either [Conda](https://docs.conda.io/en/latest/miniconda.html) or [Pixi](https://pixi.sh/latest/) to install the dependencies for this tutorial; which you choose is a matter of personal preference. Once installed, you can create the environment by running the appropriate command below from within the project directory.
 
 ### Conda
 
@@ -48,8 +48,29 @@ pixi shell
 
 ## Tutorial Outline
 
-1. Introduction to Gaussian Processes
-2. Covariance Functions and Kernel Methods
-3. Bayesian Inference in PyMC
-4. HSGP Approximation for Large Datasets
-5. Sports Analytics Case Study
+1. Introduction to Probabilistic Modeling (10 min)
+
+    - Overview of modeling complex systems using Gaussian distributions.
+
+2. What is a Gaussian Process? (15 min)
+
+    - Explanation of Gaussian Processes, their features, and properties.
+    - Discussion of the flexibility of GPs in capturing non-linear relationships.
+
+3. Building a Gaussian Process Model in PyMC (10 min)
+
+    - How to choose and customize covariance functions to suit different problems.
+
+4. Fitting and Evaluating your GP Model (5 min)
+
+    - Methods for fitting GPs and validating their output.
+
+5. Fast Gaussian Processes: HSGP Approximation (10 min)
+
+    - Introduction to the HSGP approximation and how it scales GPs to large datasets.
+
+6. Sports Analytics Case Study (40 min)
+
+    - Application of GPs to a real-world sports analytics problem.
+    - Step-by-step walkthrough of modeling and prediction using GPs in PyMC.
+
