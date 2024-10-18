@@ -3,7 +3,7 @@
 **PyData NYC 2024**
 
 Gaussian processes (GPs) are a powerful Bayesian approach for quantifying uncertainty and making probabilistic inferences, especially when dealing with complex, non-linear relationships in regression and classification.
-This tutorial will introduce you to the flexibility of GPs in handling diverse data problems, including the new Hilbert space Gaussian process (HSGP) approximation, which scales GPs to large datasets.
+This tutorial will introduce you to the flexibility of GPs in handling diverse data problems, including the [new Hilbert space Gaussian process (HSGP) approximation](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Basic.html), which scales GPs to large datasets.
 By the end, you will be equipped to specify, fit, and validate GP models using PyMC, with a special focus on a real-world sports analytics case study.
 
 ---

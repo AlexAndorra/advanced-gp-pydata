@@ -164,4 +164,6 @@ cython_debug/
 *.key
 
 # netcdf files
-*.nc
+*.nc# pixi environments
+.pixi
+*.egg-info

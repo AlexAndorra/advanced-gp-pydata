@@ -1,0 +1,29 @@
+[project]
+authors = ["Chris Fonnesbeck <fonnesbeck@gmail.com>"]
+channels = ["conda-forge"]
+description = "Mastering Gaussian Processes with PyMC"
+name = "gp-pydata24"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+black = "*"
+ipywidgets = "*"
+isort = "*"
+jupyter = "*"
+jupyterlab = "*"
+matplotlib = "*"
+nbqa = "*"
+numba = "*"
+numpy = "*"
+numpyro = "*"
+nutpie = "*"
+pandas = "*"
+pymc = ">=5.16.0"
+scikit-learn = "*"
+scipy = "*"
+seaborn = "*"
+tensorflow = "*"
+watermark = "*"
