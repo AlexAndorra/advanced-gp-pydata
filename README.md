@@ -29,3 +29,27 @@ Basic understanding of probability and statistics, and familiarity with Python.
 ## Materials Distribution
 
 All tutorial materials, including notebooks and datasets, will be made available via a GitHub repository.
+
+## Computer Setup
+
+We recommend using either [Conda](https://docs.conda.io/en/latest/miniconda.html) or [Pixi](https://pixi.sh/latest/) to install the dependencies for this tutorial. Which you choose is a matte of personal preference. Once installed, you can create the environment by running the appropriate command below from within the project directory.
+
+### Conda
+
+```bash
+conda env create -f environment.yml
+```
+
+### Pixi
+
+```bash
+pixi shell
+```
+
+## Tutorial Outline
+
+1. Introduction to Gaussian Processes
+2. Covariance Functions and Kernel Methods
+3. Bayesian Inference in PyMC
+4. HSGP Approximation for Large Datasets
+5. Sports Analytics Case Study
