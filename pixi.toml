@@ -1,5 +1,5 @@
 [project]
-authors = ["Chris Fonnesbeck <fonnesbeck@gmail.com>"]
+authors = ["Chris Fonnesbeck <fonnesbeck@gmail.com>", "Alex Andorra <andorra.alexandre@gmail.com>"]
 channels = ["conda-forge"]
 description = "Mastering Gaussian Processes with PyMC"
 name = "gp-pydata24"
@@ -21,6 +21,7 @@ numpy = "*"
 numpyro = "*"
 nutpie = "*"
 pandas = "*"
+preliz = "*"
 pymc = ">=5.16.0"
 scikit-learn = "*"
 scipy = "*"
