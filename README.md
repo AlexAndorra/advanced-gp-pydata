@@ -61,9 +61,9 @@ pixi shell
 
     - How to choose and customize covariance functions to suit different problems.
 
-4. Fitting and Evaluating your GP Model (5 min)
+4. Marginal, Latent, and Sparse GPs (10 min)
 
-    - Methods for fitting GPs and validating their output.
+    - Different classes of GPs and their properties.
 
 5. Fast Gaussian Processes: HSGP Approximation (10 min)
 
@@ -73,4 +73,3 @@ pixi shell
 
     - Application of GPs to a real-world sports analytics problem.
     - Step-by-step walkthrough of modeling and prediction using GPs in PyMC.
-
