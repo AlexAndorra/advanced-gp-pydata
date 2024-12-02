@@ -1,6 +1,6 @@
 # Mastering Gaussian Processes with PyMC
 
-##PyData NYC 2024
+## PyData NYC 2024
 
 ### [Video of the tutorial](https://www.youtube.com/watch?v=u6I5pN_Q6r4&list=PLGVZCDnMOq0ohEIZ-_wM2W_xqSVjyA3dC&index=6)
 
