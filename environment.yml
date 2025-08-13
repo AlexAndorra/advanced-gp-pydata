@@ -15,7 +15,8 @@ dependencies:
   - nutpie
   - pandas
   - preliz
-  - pymc>=5.19.0
+  - pymc-base
+  - python-graphviz
   - scikit-learn
   - scipy
   - seaborn
