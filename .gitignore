@@ -167,3 +167,5 @@ cython_debug/
 *.nc# pixi environments
 .pixi
 *.egg-info
+
+slides/
